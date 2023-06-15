@@ -1,0 +1,204 @@
+Text,Label
+công ty mình hiện đang làm sản phẩm hay outsource,company_ask_info_base
+bot cho mình thông tin về ftech đi nào,company_ask_info_base
+mình muốn nghe bot nói về ftech á,company_ask_info_base
+cho mình biết tên đầy đủ của công tinh mình đi timi,company_ask_info_base
+timi gửi mình tên viết tắt của cty mình nha,company_ask_info_base
+bot có biết tên đầy đủ của ftech không,company_ask_info_base
+những đối tác mà ftech hiện tại đang hợp tác là ai vậy bot,company_ask_info_base
+cty mình hiện đang hợp tác làm ăn với những ai vậy,company_ask_info_base
+có khách hàng nào đang hợp tác với ftech rứa,company_ask_info_base
+bot gửi tui khẩu hiệu của ftech đi nào,company_ask_info_base
+đố timi biết sologan của cty mình đó,company_ask_info_base
+bạn có biết cty mình có solagan là gì không hè,company_ask_info_base
+tui chưa biết tầm nhìn của cty trong những năm tới sẽ là ntn,company_ask_info_base
+cty sẽ có định hướng phát triển ntn trong 5 năm tới vậy,company_ask_info_base
+ftech dự định sẽ có kế hoạch phát triển như thế nào á,company_ask_info_base
+tui chưa biết giá trị cốt lõi ở ftech là gì cả,company_ask_info_base
+cậu cho mình biết những giá trị mà ftech hướng tới là gì,company_ask_info_base
+tui muốn biết thứ cốt lõi mà công ty hướng tới,company_ask_info_base
+nghe bảo ftech đông người lắm à,company_ask_info_base
+"quy mô thành viên, nhân sự ở cty mình thế nào",company_ask_info_base
+hiện tại thì ftech đang có bao nhiều anh chị em rồi,company_ask_info_base
+cho tui biết số lượng phòng ban bên mình nha,company_ask_info_base
+cty hiện tại có những phòng ban nào zậy timi,company_ask_info_base
+cty có nhiều bộ phận hong nè,company_ask_info_base
+nói mình nghe về không gian làm việc của ftech đi nha,company_ask_office
+nghe bảo văn phòng làm việc ở ftech đẹp lắm hả,company_ask_office
+không gian ở tech có xịn xò hong ta,company_ask_office
+cty của timi ra đời lâu chưa,company_ask_office
+hình như ftech thành lập mới được vài năm,company_ask_office
+mình chưa biết cty thành lập vào năm mấy,company_ask_office
+gửi hộ tui địa chỉ ftech nhanh nào,company_ask_office
+ftech đang tọa lạc ở vị trí nào vậy timi xinh đẹp,company_ask_office
+bot nhắn tui nơi làm việc của ftech với nha,company_ask_office
+cty mình bữa này đang có sản phẩm nào vậy,company_ask_product
+"có sản phẩm nào đang làm không, giới thiệu tui đi timi",company_ask_product
+nghe bảo bữa ni ftech làm nhiều product lắm hả,company_ask_product
+không biết ftech có tổ chức đào tạo cho ae nhân viên hong,company_ask_policy
+ftech có đào tạo cho nhân viên hong ta,company_ask_policy
+nghe bảo cty sẽ đào tạo cho thành viên mới hả,company_ask_policy
+cty sẽ đào tạo cho nhân viên những gì vậy,company_ask_policy
+chương trình đào tạo ở ftech có gì,company_ask_policy
+ftech bữa ni sẽ đào tạo gì cho ae trong cty zậy,company_ask_policy
+thành phần nào trong cty sẽ được đào tạo,company_ask_policy
+đối tượng nhân viên nào thì được tham gia đào tạo,company_ask_policy
+tui chưa biết những ai sẽ được tham gia chương trình đào tạo của cty,company_ask_policy
+ftech có chế độ bảo hiểm ntn dành cho nv vậy,company_ask_policy
+tui muốn biết về chính sách bảo hiểm của cty hiện tại,company_ask_policy
+bot trả lời dùm tui về chế độ bảo hiểm đi,company_ask_policy
+cty có những loại bảo hiểm nào dành cho nv thế,company_ask_policy
+nhân viên ở cty thì sẽ được nhận những loại bảo hiểm nào zậy,company_ask_policy
+ở ftech hiện nay sẽ đóng những loại bảo hiểm nào thế,company_ask_policy
+cty có thêm loại bảo hiểm cao cấp nào không,company_ask_policy
+nghe bảo ftech có loại bảo hiểm nào xịn hơn nữa hả,company_ask_policy
+bữa ni ftech hình như mới có thêm 1 loại bảo hiểm mới cao cấp lẳm hả,company_ask_policy
+bà bầu thì được cty hỗ trợ hay có chính sách nào không zạ,company_ask_policy
+nhân viên mang thai thì được ftech dành chính sách ntn,company_ask_policy
+ftech có chế độ hay chính sách gì cho mấy chị em mang thai không,company_ask_policy
+tui đóng bảo hiểm đầy đủ thì có quyền lợi gì hong,company_ask_policy
+tui được lợi gì khi tham gia bảo hiểm zậy,company_ask_policy
+tham gia đóng bảo hiểm như vậy thì t được gì hong á,company_ask_policy
+mấy anh chị em kết hôn thì được cty hỗ trợ gì không,company_ask_policy
+nhân viên trong cty đám cưới thì ftech có cho gì không,company_ask_policy
+ftech có đãi ngộ gì cho nhân viên kết hôn không vậy,company_ask_policy
+ot ở cty có được cho gì không,company_ask_policy
+tần suất OT ở ftech ntn zậy,company_ask_policy
+tui ot vài bữa này không biết có thêm tiền gì không,company_ask_policy
+ftech tính lương ntn rứa,company_ask_policy
+1 năm thì nhân viên có những khoản lương nào vậy,company_ask_policy
+tui chưa biết cách tính lượng ở ftech thì ntn,company_ask_policy
+tui không rõ là cty sẽ trả lương vào ngày nào trong tháng nhỉ,company_ask_policy
+ngày mai cty sẽ trả lương hả,company_ask_policy
+thứ mấy thì cty gửi lương nhân viên,company_ask_policy
+nhân viên 6 tháng thì được review lương chưa,company_ask_policy
+để được review lên lương thì cần có những tiêu chí nào vậy,company_ask_policy
+bao lâu thì tui được mấy sếp review lương,company_ask_policy
+cuối năm thì công ty có thưởng thêm tháng 13 không,company_ask_policy
+bot có biết cty mình tính lương tháng 13 ntn không,company_ask_policy
+tháng 13 được tính lương ntn,company_ask_policy
+ngày lễ công ty mình có thưởng gì không,company_ask_policy
+lễ thiếu nhi cty có cho tiền không,company_ask_policy
+Tết thì công ty có gì thưởng anh em nhân sự không,company_ask_policy
+tui làm siêng năng thì thưởng kpi ntn vậy,company_ask_policy
+tui chưa biết cách tính thưởng kpi,company_ask_policy
+kpi thưởng được nhiều không,company_ask_policy
+ftech có hay đá banh không bot đẹp,company_ask_policy
+công ty có tổ chức du lịch cho ae trong cty không bot,company_ask_policy
+ở ftech có các loại đãi ngộ nào cho nhân viên?,company_ask_policy
+có bầu thì có được đi làm 7 tiếng 1 ngày khum nhỉ,company_ask_rule
+nhỡ mình có bầu thì ftech có hỗ trợ gì về thời gian làm việc không ạ,company_ask_rule
+quy định thời gian đi làm của nhân viên nữ có thai,company_ask_rule
+có cần giữ vsinh chung trên công ty ko,company_ask_rule
+công ty có quy định gì về việc sử dụng các khu vực chung ko,company_ask_rule
+ftech quy định ntn về việc giữ vệ sinh chung,company_ask_rule
+ftech có mặc đồng phục mỗi thứ 2 không,company_ask_rule
+công ty bạn quy định ra sao về đồng phục đi làm,company_ask_rule
+ko mặc áo công ty mỗi thứ 2 được ko,company_ask_rule
+bạo lực công sở có được coi là vi phạm kỷ luật ko,company_ask_rule
+các hành vi được cho là vi phạm kỉ luật tại ftech,company_ask_rule
+nhân viên làm gì thì sẽ bị cho là vi phạm kỉ luật vậy?,company_ask_rule
+các hình thức kỉ luật khi nhân viên vi phạm kỉ luật tại ftech?,company_ask_rule
+nhân viên sẽ bị kỉ luật ntn nếu vi phạm kỉ luật,company_ask_rule
+tại ftech có các hình phạt nào cho nvien vi phạm kỉ luật,company_ask_rule
+lấy dép của tầng khác thì có bị phạt ko nhỉ,company_ask_rule
+ăn cắp vặt trong công ty có bị phạt k,company_ask_rule
+lỡ đi làm 9h thì có bị phạt k,company_ask_rule
+mình checkout về sớm từ 14h đc k,company_ask_rule
+công ty mình có quy định về thời gian chấm công ko nhỉ,company_ask_rule
+giờ quên chấm công thì làm sao,company_ask_rule
+"ê sáng ni lỡ quên chấm công rùi, phải làm sao đây",company_ask_rule
+"giúp mình với, hôm qua mình quên checkout rùi",company_ask_rule
+công ty mình chỉ chấm công bằng bot thui nhỉ,company_ask_rule
+giờ chỉ cần chấm công với timi là được đúng ko,company_ask_rule
+mình chấm công gương mặt rùi thì có cần chấm công bằng vân tay ko nhỉ,company_ask_rule
+muốn nghỉ phép thì phải xin trước mấy ngày,company_ask_rule
+cần phải xin ai nếu muốn đi trễ 3 tiếng,company_ask_rule
+muốn nghỉ phép nguyên tháng thì xin bằng email hay như thế nào,company_ask_rule
+30/4 này công ty cho nghỉ mấy ngày vậy bot,company_ask_rule
+1 năm công ty nghỉ lễ vào những dịp vào,company_ask_rule
+ftech cho phép nhân viên nghỉ vào các dịp lễ nào,company_ask_rule
+mình có được ứng phép ko nhỉ,company_ask_rule
+công ty có cho nhân viên ứng phép ko vậy,company_ask_rule
+timi ơi ftech có chịu ứng phép cho mình ko,company_ask_rule
+mình về sớm rùi mai làm bù đc ko timi,company_ask_rule
+hôm nay mình xin ra ngoài thì có cần làm bù để đủ 8 tiếng ko timi,company_ask_rule
+đi trễ thì cần làm bù nhỉ,company_ask_rule
+đi trễ thì phạt ntn,company_ask_rule
+lỡ đi trễ mà còn quên xin phép thì bị phạt có nhiều ko,company_ask_rule
+HR bảo đi trễ phạt tận 500K à timi,company_ask_rule
+công ty quy định thời gian làm việc ntn,company_ask_rule
+ca làm sáng của ftech thường bắt đầu vào mấy giờ,company_ask_rule
+một ngày phải làm việc mấy tiếng vậy ạ,company_ask_rule
+1 năm có mấy ngày được nghỉ phép hưởng lương,company_ask_rule
+tôi làm 7 tháng thì có 7 ngày phép không trừ vào lương à?,company_ask_rule
+tôi làm cho ftech 3 năm thì có được cộng thêm ngày phép ko,company_ask_rule
+svtt có được nghỉ phép hưởng lương không timi,company_ask_rule
+"timi ơi, tháng này mình cưới thì có được nghỉ khôgn trừ luong ko?",company_ask_rule
+nghỉ phép có được tính lương không ạ,company_ask_rule
+quy định,company_ask_rule
+các quy định chung của ftech,company_ask_rule
+rule,company_ask_rule
+ftech thử việc bao lâu,company_ask_rule
+công ty có 2 tháng thử việc à,company_ask_rule
+quy định thời gian thử việc tại công ty,company_ask_rule
+ftech có làm remote không,company_ask_recruitment
+công ty có tuyển nhân sự remote không timi,company_ask_recruitment
+mình ứng tuyển remote được không,company_ask_recruitment
+giới thiệu senior được bonus mấy triệu vậy timi?,company_ask_recruitment
+giới thiệu ứng viên được thưởng bao nhiêu đấy ạ,company_ask_recruitment
+mình giới thiệu intern cho HR thì thưởng có nhiều không nhỉ,company_ask_recruitment
+liên hệ HR ntn nhỉ,company_ask_recruitment
+giờ muốn liên hệ với ban tuyển dụng thì làm sao ta,company_ask_recruitment
+cho mình xin cách để liên hệ với công ty ạ,company_ask_recruitment
+công ty phỏng vấn theo hình thức online hay offline vậy timi,company_ask_recruitment
+hết covid rùi thì ftech có còn phỏng vấn online không ạ,company_ask_recruitment
+bắt buộc phải phỏng vẫn offline hay sao,company_ask_recruitment
+ftech phỏng vấn chỉ bằng tiếng việt thui hả timi,company_ask_recruitment
+ftech có phỏng vấn ứng viên bằng tiếng anh không,company_ask_recruitment
+ngoài tiếng việt ftech có kiểm tra trình độ ngoại ngữ của ứng viên thông qua ngôn ngữ nào khác không timi,company_ask_recruitment
+hội đồng phỏng vấn của ftech thường gồm những ai,company_ask_recruitment
+phỏng vấn senior thì thường gồm những ai tham gia quá trình phỏng vấn,company_ask_recruitment
+phỏng vấn intern thì ai sẽ thuộc ban phỏng vấn vậy ạ,company_ask_recruitment
+chât lượng bài test của ftech thường khó hay dễ ạ,company_ask_recruitment
+ftech khi đưa bài phỏng vấn đầu vào có khó lắm không,company_ask_recruitment
+mức độ ra đề các bài testing của ftech ra sao,company_ask_recruitment
+quy trình phỏng vấn của ftech ntn,company_ask_recruitment
+ftech có quy trình rõ ràng cho việc phỏng vấn ứng viên không,company_ask_recruitment
+phỏng vấn chắc có quy trình đàng hoàng chứ nhỉ,company_ask_recruitment
+công ty có các tiêu chí đánh giá ứng viên như thế nào,company_ask_recruitment
+tiêu chí đánh giá khi phỏng vấn ntn,company_ask_recruitment
+trang phục phỏng vấn có phải một trong số các yếu tố để đánh giá cuộc phòng vấn không?,company_ask_recruitment
+khi nào thì có kqua pvan vậy ạ,company_ask_recruitment
+phỏng vấn bao lâu thì biết đậu rớt nè,company_ask_recruitment
+Không biết bao lâu thì mới nhận được kq phỏng vấn nhở?,company_ask_recruitment
+vừa gửi CV xong thì bao lâu sẽ đc gọi đi phỏng vấn vậy,company_ask_recruitment
+bao lâu thì sẽ được gọi phỏng vấn từ khi gửi cv,company_ask_recruitment
+sau khoảng mấy ngày thì mình sẽ được gọi đi phỏng vấn vậy,company_ask_recruitment
+cty còn tuyển những vị trí nào vậy,company_ask_recruitment
+devops có tuyển chứ,company_ask_recruitment
+cho thông tin tuyển dụng vị trí kế toán với,company_ask_recruitment
+NLP research là làm gì,company_ask_recruitment
+cụ thể thì nhân viên chăm sóc KH sẽ làm những gì,company_ask_recruitment
+xin mô tả cụ thể công việc của 1 nhân viên kỹ thuật đi,company_ask_recruitment
+lương thử việc ra sao,company_ask_recruitment
+mức lương trung bình của 1 dev trong cty là nhiu,company_ask_recruitment
+lương lậu thế nào đấy,company_ask_recruitment
+khi vô cty sẽ làm việc ở đâu vậy,company_ask_recruitment
+mình pass NLP Engineer rồi thì sắp tới sẽ làm việc ở mô,company_ask_recruitment
+m.n hay làm việc ở đâu z,company_ask_recruitment
+có iêu cầu gì khi apply vào cty không,company_ask_recruitment
+Devops có cần điều kiện gì khi ứng tuyển không,company_ask_recruitment
+"cần trang bị những kỹ năng, kiến thức gì để ứng tuyển NLP senior",company_ask_recruitment
+"chết rồi, nay checkin chưa nhở",company_ask_time_keeper
+hôm qua mình checkout khi nào vậy bot,company_ask_time_keeper
+20 tháng này mình có chấm công k nhở,company_ask_time_keeper
+tháng nì tui còn phép không ta,company_ask_time_keeper
+mình có bao nhiêu ngày phép nữa vậy,company_ask_time_keeper
+tra giúp xem mik còn nhiêu ngày nghỉ phép nứa,company_ask_time_keeper
+tuần nì mik có về sớm bủi nèo không,company_ask_time_keeper
+số buổi mình đi làm trễ trong tháng này,company_ask_time_keeper
+thống kê hộ số buổi đi làm muộn của t trong tháng này vs,company_ask_time_keeper
+bot có biết chị Ly làm việc ở văn phòng Đà Nẵng tên đầy đủ là gì không,knowledge_ask_person_info
+"đố biết, ftech có bao nhiêu nhân viên sinh vào tháng 2",knowledge_ask_person_info
+trưởng phòng hành chính nhân sự là ai,knowledge_ask_person_info
